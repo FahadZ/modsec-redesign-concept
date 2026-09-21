@@ -30,6 +30,7 @@ They are illustrations, not photos. For launch, real photos of the owner's own i
 To tweak the artwork, edit `tools/gen-images.mjs` and run `node tools/gen-images.mjs`.
 
 ## Placeholders the owner needs to confirm (all marked in the pages)
+- **Company history (Our story page)** - "since 1975" comes from Rob Racine's LinkedIn profile, as reported by the person who commissioned the concept. Confirm it is the company's founding year (not, say, the start of his career), then fill in the founding story, milestone years, bio, photos and team. The old site's "35+ years" was replaced by "50+ years".
 - **Every price** (`$XX`, `$XXX`), savings amounts, and the monthly/annual billing note.
 - **Plan features, bundle contents, add-ons and membership benefits** - I invented sensible starting points; none come from the owner.
 - **Product catalogue** - names, brands (`[Brand]`), prices, photos. Only Honeywell and LifeSentry come from the original site.
