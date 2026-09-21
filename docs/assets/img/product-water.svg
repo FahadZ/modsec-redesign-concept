@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240"><defs><linearGradient id="wh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3eaf8"/></linearGradient><linearGradient id="dk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3552"/><stop offset="1" stop-color="#131a30"/></linearGradient><radialGradient id="halo"><stop offset="0" stop-color="#ffd489" stop-opacity="0.55"/><stop offset="1" stop-color="#ffd489" stop-opacity="0"/></radialGradient></defs><ellipse cx="160" cy="218" rx="90" ry="10" fill="#0a1a45" opacity=".13"/>
+  <ellipse cx="160" cy="208" rx="104" ry="13" fill="#2f6bff" opacity=".25"/>
+  <path d="M132 156C126 178 118 192 108 204M188 156C194 178 202 192 212 204" fill="none" stroke="#8a97b8" stroke-width="3" stroke-linecap="round"/>
+  <rect x="100" y="204" width="16" height="6" rx="2" fill="#c3cee8"/><rect x="204" y="204" width="16" height="6" rx="2" fill="#c3cee8"/>
+  <rect x="98" y="88" width="124" height="70" rx="35" fill="url(#wh)" stroke="#c3cee8" stroke-width="2"/>
+  <path d="M160 100C150 114 146 120 146 128a14 14 0 0 0 28 0C174 120 170 114 160 100Z" fill="#2f6bff"/>
+  <circle cx="204" cy="112" r="4" fill="#22c55e"/></svg>
